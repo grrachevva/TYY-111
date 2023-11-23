@@ -1,0 +1,6 @@
+C:\Users\kvc12\source\repos\Gracheva_rabota_2\Gracheva_rabota_2\bin\Debug\Gracheva_rabota_2.exe
+C:\Users\kvc12\source\repos\Gracheva_rabota_2\Gracheva_rabota_2\bin\Debug\Gracheva_rabota_2.pdb
+C:\Users\kvc12\source\repos\Gracheva_rabota_2\Gracheva_rabota_2\obj\Debug\Gracheva_rabota_2.csproj.AssemblyReference.cache
+C:\Users\kvc12\source\repos\Gracheva_rabota_2\Gracheva_rabota_2\obj\Debug\Gracheva_rabota_2.csproj.CoreCompileInputs.cache
+C:\Users\kvc12\source\repos\Gracheva_rabota_2\Gracheva_rabota_2\obj\Debug\Gracheva_rabota_2.exe
+C:\Users\kvc12\source\repos\Gracheva_rabota_2\Gracheva_rabota_2\obj\Debug\Gracheva_rabota_2.pdb
