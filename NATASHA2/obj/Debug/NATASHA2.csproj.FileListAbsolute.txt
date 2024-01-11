@@ -1,6 +1,0 @@
-C:\Users\student\source\repos\NATASHA2\obj\Debug\NATASHA2.csproj.AssemblyReference.cache
-C:\Users\student\source\repos\NATASHA2\obj\Debug\NATASHA2.csproj.CoreCompileInputs.cache
-C:\Users\student\source\repos\NATASHA2\bin\Debug\NATASHA2.exe
-C:\Users\student\source\repos\NATASHA2\bin\Debug\NATASHA2.pdb
-C:\Users\student\source\repos\NATASHA2\obj\Debug\NATASHA2.exe
-C:\Users\student\source\repos\NATASHA2\obj\Debug\NATASHA2.pdb
