@@ -1,6 +1,0 @@
-C:\Users\kvc12\source\repos\Gracheva_Rabota_4\Gracheva_Rabota_4\bin\Debug\Gracheva_Rabota_4.exe
-C:\Users\kvc12\source\repos\Gracheva_Rabota_4\Gracheva_Rabota_4\bin\Debug\Gracheva_Rabota_4.pdb
-C:\Users\kvc12\source\repos\Gracheva_Rabota_4\Gracheva_Rabota_4\obj\Debug\Gracheva_Rabota_4.csproj.AssemblyReference.cache
-C:\Users\kvc12\source\repos\Gracheva_Rabota_4\Gracheva_Rabota_4\obj\Debug\Gracheva_Rabota_4.csproj.CoreCompileInputs.cache
-C:\Users\kvc12\source\repos\Gracheva_Rabota_4\Gracheva_Rabota_4\obj\Debug\Gracheva_Rabota_4.exe
-C:\Users\kvc12\source\repos\Gracheva_Rabota_4\Gracheva_Rabota_4\obj\Debug\Gracheva_Rabota_4.pdb
