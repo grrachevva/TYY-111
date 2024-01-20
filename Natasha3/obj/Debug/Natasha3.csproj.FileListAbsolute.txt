@@ -1,0 +1,7 @@
+C:\Users\kvc12\source\repos\Natasha3\Natasha3\bin\Debug\Natasha3.exe.config
+C:\Users\kvc12\source\repos\Natasha3\Natasha3\bin\Debug\Natasha3.exe
+C:\Users\kvc12\source\repos\Natasha3\Natasha3\bin\Debug\Natasha3.pdb
+C:\Users\kvc12\source\repos\Natasha3\Natasha3\obj\Debug\Natasha3.csproj.AssemblyReference.cache
+C:\Users\kvc12\source\repos\Natasha3\Natasha3\obj\Debug\Natasha3.csproj.CoreCompileInputs.cache
+C:\Users\kvc12\source\repos\Natasha3\Natasha3\obj\Debug\Natasha3.exe
+C:\Users\kvc12\source\repos\Natasha3\Natasha3\obj\Debug\Natasha3.pdb
