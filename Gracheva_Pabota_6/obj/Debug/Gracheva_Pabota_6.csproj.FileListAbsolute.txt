@@ -1,6 +1,0 @@
-C:\Users\kvc12\source\repos\Gracheva_Pabota_6\Gracheva_Pabota_6\bin\Debug\Gracheva_Pabota_6.exe
-C:\Users\kvc12\source\repos\Gracheva_Pabota_6\Gracheva_Pabota_6\bin\Debug\Gracheva_Pabota_6.pdb
-C:\Users\kvc12\source\repos\Gracheva_Pabota_6\Gracheva_Pabota_6\obj\Debug\Gracheva_Pabota_6.csproj.AssemblyReference.cache
-C:\Users\kvc12\source\repos\Gracheva_Pabota_6\Gracheva_Pabota_6\obj\Debug\Gracheva_Pabota_6.csproj.CoreCompileInputs.cache
-C:\Users\kvc12\source\repos\Gracheva_Pabota_6\Gracheva_Pabota_6\obj\Debug\Gracheva_Pabota_6.exe
-C:\Users\kvc12\source\repos\Gracheva_Pabota_6\Gracheva_Pabota_6\obj\Debug\Gracheva_Pabota_6.pdb
