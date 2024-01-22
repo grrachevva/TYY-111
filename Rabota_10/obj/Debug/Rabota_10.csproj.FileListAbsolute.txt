@@ -1,0 +1,6 @@
+C:\Users\kvc12\source\repos\Rabota_10\Rabota_10\bin\Debug\Rabota_10.exe
+C:\Users\kvc12\source\repos\Rabota_10\Rabota_10\bin\Debug\Rabota_10.pdb
+C:\Users\kvc12\source\repos\Rabota_10\Rabota_10\obj\Debug\Rabota_10.csproj.AssemblyReference.cache
+C:\Users\kvc12\source\repos\Rabota_10\Rabota_10\obj\Debug\Rabota_10.csproj.CoreCompileInputs.cache
+C:\Users\kvc12\source\repos\Rabota_10\Rabota_10\obj\Debug\Rabota_10.exe
+C:\Users\kvc12\source\repos\Rabota_10\Rabota_10\obj\Debug\Rabota_10.pdb
